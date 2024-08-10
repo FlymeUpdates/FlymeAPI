@@ -4,8 +4,12 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 local.properties
-kotlin-js-store
 .kotlin
+
+### JavaScript ###
+kotlin-js-store/
+node_modules/
+package-lock.json
 
 ### IntelliJ IDEA ###
 .idea/
